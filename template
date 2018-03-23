@@ -1,0 +1,1 @@
+cat ~/codeforces/template.cpp > $1.cpp
