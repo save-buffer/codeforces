@@ -1,0 +1,1 @@
+g++ $1.cpp -ggdb -std=c++14 -o $1
